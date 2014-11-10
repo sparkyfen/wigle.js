@@ -1,0 +1,28 @@
+{
+  "name": "wigle.js",
+  "version": "0.0.1",
+  "description": "Node Wrapper for unofficial Wigle.net JSON API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brutalhonesty/wigle.js.git"
+  },
+  "keywords": [
+    "wigle",
+    "ssid",
+    "wifi"
+  ],
+  "author": "Adam Schodde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brutalhonesty/wigle.js/issues"
+  },
+  "homepage": "https://github.com/brutalhonesty/wigle.js",
+  "dependencies": {
+    "request": "^2.47.0",
+    "validator": "^3.22.1"
+  }
+}
